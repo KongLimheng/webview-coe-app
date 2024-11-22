@@ -19,7 +19,7 @@ export default function HomeScreen() {
       <StatusBar barStyle={'dark-content'} />
 
       <WebView
-        source={{ uri: 'http://172.17.120.46:3000' }}
+        source={{ uri: 'https://webview.news24.link/' }}
         style={styles.webview}
         javaScriptEnabled={true}
         mediaPlaybackRequiresUserAction={false}

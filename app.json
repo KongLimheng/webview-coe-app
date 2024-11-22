@@ -26,7 +26,8 @@
         "RECORD_AUDIO",
         "SYSTEM_ALERT_WINDOW",
         "FOREGROUND_SERVICE"
-      ]
+      ],
+      "package": "com.pyheng.webviewcoeapp"
     },
     "web": {
       "bundler": "metro",
